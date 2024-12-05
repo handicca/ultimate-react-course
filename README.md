@@ -45,7 +45,8 @@ Here's an overview of the projects I'm currently working on and those I have com
 | Project Name          | Status       |
 |-----------------------|--------------|
 | Pizza Menu            | ✅ Completed |
-| Travel List           | ❌ Not Started |
+| Travel List           | ✅ Completed |
+| Eat-n-Split           | ❌ Not Started |
 
 ---
 

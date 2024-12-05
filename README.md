@@ -42,11 +42,18 @@ The course includes a variety of projects designed to teach React concepts step 
 ## 🚀 My Progress
 Here's an overview of the projects I'm currently working on and those I have completed:
 
-| Project Name          | Status       |
-|-----------------------|--------------|
-| Pizza Menu            | ✅ Completed |
-| Travel List           | ✅ Completed |
-| Eat-n-Split           | ❌ Not Started |
+| Project Name           | Status       |
+|------------------------|--------------|
+| Pizza Menu             | ✅ Completed |
+| Travel List            | ✅ Completed |
+| Eat-n-Split            | ✅ Completed |
+| usePopcorn             | ❌ Not Started |
+| Classy Weather         | ❌ Not Started |
+| Quiz App               | ❌ Not Started |
+| Worldwise              | ❌ Not Started |
+| Fast React Pizza       | ❌ Not Started |
+| The Wild Oasis         | ❌ Not Started |
+| The Wild Oasis Website | ❌ Not Started |
 
 ---
 

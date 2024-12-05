@@ -47,7 +47,7 @@ Here's an overview of the projects I'm currently working on and those I have com
 | Pizza Menu             | ✅ Completed |
 | Travel List            | ✅ Completed |
 | Eat-n-Split            | ✅ Completed |
-| usePopcorn             | ❌ Not Started |
+| usePopcorn             | ✅ Completed |
 | Classy Weather         | ❌ Not Started |
 | Quiz App               | ❌ Not Started |
 | Worldwise              | ❌ Not Started |

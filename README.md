@@ -49,8 +49,8 @@ Here's an overview of the projects I'm currently working on and those I have com
 | Eat-n-Split            | ✅ Completed |
 | usePopcorn             | ✅ Completed |
 | Classy Weather         | ❌ Not Started |
-| Quiz App               | ❌ Not Started |
-| Worldwise              | ❌ Not Started |
+| Quiz App               | ✅ Completed |
+| Worldwise              | ✅ Completed |
 | Fast React Pizza       | ❌ Not Started |
 | The Wild Oasis         | ❌ Not Started |
 | The Wild Oasis Website | ❌ Not Started |

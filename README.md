@@ -51,7 +51,7 @@ Here's an overview of the projects I'm currently working on and those I have com
 | Classy Weather         | ❌ Not Started |
 | Quiz App               | ✅ Completed |
 | Worldwise              | ✅ Completed |
-| Fast React Pizza       | ❌ Not Started |
+| Fast React Pizza       | ✅ Completed |
 | The Wild Oasis         | ❌ Not Started |
 | The Wild Oasis Website | ❌ Not Started |
 

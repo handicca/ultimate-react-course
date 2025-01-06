@@ -17,7 +17,7 @@ The course includes a variety of projects designed to teach React concepts step 
    - Practice Project  
 
 4. **usePopcorn**  
-   - Concepts: `useEffect`, data fetching, custom hooks 
+   - Concepts: `useEffect`, `useRef`, data fetching, custom hooks 
 
 5. **Classy Weather**  
    - Concepts: Class components  

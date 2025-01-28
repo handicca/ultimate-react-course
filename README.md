@@ -52,7 +52,7 @@ Here's an overview of the projects I'm currently working on and those I have com
 | Quiz App               | ✅ Completed |
 | Worldwise              | ✅ Completed |
 | Fast React Pizza       | ✅ Completed |
-| The Wild Oasis         | 🔄 In Progress |
+| The Wild Oasis         | ✅ Completed |
 | The Wild Oasis Website | ❌ Not Started |
 
 ---
